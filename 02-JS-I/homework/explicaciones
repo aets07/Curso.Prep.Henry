@@ -1,0 +1,20 @@
+
+1) Variables:
+Las variables son como cajas, donde guardas cosas que vas a utilizar más adelante. 
+En JavaScript almacenas numeros (positivos y negativos) y letras (palabras), donde puedes
+modificar o no su declaración, es decir, puedes usar la caja 1 para guardar los guantes otra vez,
+o guardar en esa caja 1 los zapatos en vez de los guantes.
+
+2)Strings:
+Es un tipo de variable útil para declarar texto. Imaginemos que son bloques de lego y cada bloque guarda una letra.
+
+3)Funciones (argumentos, 'return'):
+Es una herramienta que permite establecer instrucciones que puede ser utilizadas varias veces.
+Por ejemplo, establecer una sucesión de actividades diarias para desarrollar un hábito
+(levantarse temprano, tender la cama, bañarse y cepillarse, desayunar) 
+
+4)Declaraciones 'if':
+Es una condición para determinar si algo es posible o no. Por ejemplo, 'si terminas la tarea, podemos ir por un helado'.
+
+5)Valores Booleanos ('true','false'):
+Los valores booleanos son como 2 opciones que permiten definir que algo pueda ser o no ser. Por ejemplo, si se tienen tienen 2 jugos naturales en el recreo, y un compañero de clase te dice "El jugo de manzana sabe igual que el jugo de Naranja": No, por lo tanto, esta afirmación es falsa.
